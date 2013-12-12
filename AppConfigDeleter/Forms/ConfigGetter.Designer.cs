@@ -1,4 +1,4 @@
-﻿namespace AppConfigDeleter.Forms
+namespace AppConfigDeleter.Forms
 {
 	partial class ConfigGetter
 	{

@@ -1,4 +1,4 @@
-﻿namespace AppConfigDeleter
+namespace AppConfigDeleter
 {
 	partial class MainForm
 	{

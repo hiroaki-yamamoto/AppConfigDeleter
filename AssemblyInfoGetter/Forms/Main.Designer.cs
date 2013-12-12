@@ -1,4 +1,4 @@
-﻿namespace AssemblyInfoGetter
+namespace AssemblyInfoGetter
 {
 	partial class MinForm
 	{
